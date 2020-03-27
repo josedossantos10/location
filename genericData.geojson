@@ -11,6 +11,8 @@
       "type": "Feature",
       "properties": {
         "id": "1"
+        "mag": 2.3,
+
       },
       "geometry": {
         "type": "Point",
@@ -23,6 +25,7 @@
     {
       "type": "Feature",
       "properties": {
+        "mag": 5,
         "id": "2"
       },
       "geometry": {
@@ -36,6 +39,7 @@
         {
       "type": "Feature",
       "properties": {
+        "mag": 1,
         "id": "3"
       },
       "geometry": {
