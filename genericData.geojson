@@ -10,9 +10,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "1"
-        "mag": 2.3,
-
+        "id": "1",
+        "mag": 2.3
       },
       "geometry": {
         "type": "Point",
